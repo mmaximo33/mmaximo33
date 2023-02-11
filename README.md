@@ -1,3 +1,4 @@
+![mmaximo33's github stats](https://github-readme-stats.vercel.app/api?username=mmaximo33&show_icons=true&theme=merko)
 ### Hi there 👋
 
 <!--
